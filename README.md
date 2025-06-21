@@ -15,7 +15,7 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/abhiram01" target="_blank">
+  <a href="https://in.linkedin.com/in/abhiraml1" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
   <a href="https://www.codechef.com/users/abhiram_8096" target="_blank" style="margin-left: 10px;">
