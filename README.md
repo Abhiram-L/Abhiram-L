@@ -1,73 +1,57 @@
-<h1 align="center">Hi 👋, I'm ABHIRAM LALAM</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Abhiram Lalam</h1>
+<h3 align="center">🚀 Passionate Frontend Developer & Problem Solver 🚀</h3>
 
-- 🔭 I’m currently working on [JobHunt](https://jobhunt1.vercel.app)
-- 💡 I love solving algorithmic problems on various platforms and "I enjoy building meaningful and purposeful websites that are not only visually appealing but also highly functional. My focus is on creating smooth, responsive user experiences with all the essential features users need. I believe in developing solutions that are intuitive, user-friendly, and aligned with real-world needs."
-- ⭐ I'm a 3★ coder on CodeChef
-- 📫 How to reach me **albus8096@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhiram-lalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiram lalam" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhiram_8096" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhiram_8096" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abhiram_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhiram_1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhiram_8096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhiram_8096" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Developer;Competitive+Programmer;Building+Purposeful+Websites" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+- 🔭 Currently working on [**JobHunt**](https://jobhunt1.vercel.app) – an internship & job finder platform
+- 💡 I love solving algorithmic problems and building meaningful, purposeful websites that are visually appealing, responsive, and packed with all essential features
+- 💬 Ask me about **React**, **JavaScript**, **Tailwind**, **Node.js**, and **Frontend development**
+- ⭐ I'm a 3★ coder on CodeChef and active in competitive programming
+- 📫 Reach me at: **albus8096@gmail.com**
+
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <a href="https://linkedin.com/in/abhiram01" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <a href="https://www.codechef.com/users/abhiram_8096" target="_blank" style="margin-left: 10px;">
+    <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="40" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <a href="https://codeforces.com/profile/Abhiram_1" target="_blank" style="margin-left: 10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" />
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <a href="https://www.leetcode.com/abhiram_8096" target="_blank" style="margin-left: 10px;">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" />
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <a href="https://github.com/abhiram-l" target="_blank" style="margin-left: 10px;">
+    <img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
   </a>
 </p>
+
+---
+
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,js,html,css,nodejs,express,mongodb,mysql,postgres,git,linux,python,cpp,c,postman,firebase" />
+</p>
+
+---
+
+<h3 align="center">🏆 Projects & Achievements</h3>
+
+### [JobHunt – Internship & Job Finder](https://jobhunt1.vercel.app)
+- A modern job and internship search platform with salary explorer, filters, and user-friendly interface
+- Built using React, RapidAPI (JSearch), Tailwind CSS, and Node.js
+
+### Competitive Programming
+- ⭐ 3★ on CodeChef  
+- 📈 coderforces(max rating :1149)
+- 🧠 Solved 300+ problems on various platforms including LeetCode and Codeforces
+
+---
+
+<h3 align="center">🚀 Let's Connect and Collaborate!</h3>
