@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on [**JobHunt**](https://jobhunt1.vercel.app) – an internship & job finder platform
 - 💡 I love solving algorithmic problems and building meaningful, purposeful websites that are visually appealing, responsive, and packed with all essential features
-- 💬 Ask me about **React**, **JavaScript**, **Tailwind**, **Node.js**, and **Frontend development**
+- 💬 Ask me about **React**, **JavaScript**, **Node.js**, and **Frontend development**,**backend_development**,**Mern**
 - ⭐ I'm a 3★ coder on CodeChef and active in competitive programming
 - 📫 Reach me at: **albus8096@gmail.com**
 
